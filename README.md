@@ -1,7 +1,7 @@
 ### Hi bienvenida 👋
 
 
-<p>Welcome to my page! </br> I'm Esther Uge Fullstack developer from <img src="https://pngtree.com/freepng/map-navigation-pointer-with-kenya-flag-design-vector_4889558.html" width="5"/> <b>Nairobi, Kenya</b>
+<p>Welcome to my page! </br> I'm Esther Uge Fullstack developer.
 <h3>Things I code with</h3>
 <p>
  
